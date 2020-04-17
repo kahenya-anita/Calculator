@@ -10,13 +10,13 @@
 This is a simple a calculator that takes user's input and outputs the result!
 
 ## Live Page 
-* [https://rosekairu.github.io/Calculator]
+* [https://kahenya-anita.github.io/Calculator/]
 
 
 ## Installation / Setup instruction
 * Open Terminal {Ctrl+Alt+T}
 
-* git clone ```https://github.com/rosekairu/Calculator.git```
+* git clone ```https://kahenya-anita.github.io/Calculator/```
 
 * cd Calculator
 
